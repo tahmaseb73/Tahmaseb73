@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![3D Contribution Graph](profile-3d-contrib)
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
