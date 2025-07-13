@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![3D Contribution Graph](profile-3d-contrib)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
+
+
+
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
