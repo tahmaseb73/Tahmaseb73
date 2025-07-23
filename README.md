@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 
 <div align="center">
   <!-- تم روشن -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahmaseb73&theme=light" alt="tinde29 Light Theme" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahmaseb73&theme=light" alt="Profile card (Light)" />
+  
   <!-- تم تاریک -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahmaseb73&theme=dark" alt="tinde29 Dark Theme" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahmaseb73&theme=dark" alt="Profile card (Dark)" />
 </div>
 
 
