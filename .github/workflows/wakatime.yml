@@ -2,7 +2,7 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # هر روز در ساعت 00:00 اجرا می‌شود
+    - cron: '0 0 * * *' # هر روز در ساعت 00:00
   workflow_dispatch: # امکان اجرای دستی
 
 jobs:
